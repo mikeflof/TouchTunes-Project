@@ -1,11 +1,10 @@
 import React from 'react';
-import './usernamePage.css';
+import './EnterUsernamesPage.css';
 import spotifyLogo from './spotifyLogo.png';
 
 export default function EnterUsernamesPage() {
   return (
-    <>
-        
+    <>  
         <div>
         <br/>
         <img id='logo' src={spotifyLogo} className = 'spotifyLogo' alt = "spotify logo" />

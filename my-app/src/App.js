@@ -2,6 +2,7 @@
 import "./App.css";
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
+import EnterUsernamesPage from "./components/Views/EnterUsernamesPage";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
     // </div>
     <div className="App">
       <Navbar />
+      <EnterUsernamesPage />
     </div>
   );
 }

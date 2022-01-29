@@ -1,43 +1,36 @@
-html
-{
+html {
     background-color: black;
     padding: 8px;
 }
 
-#title
-{
+#title {
     font-size: 70px;
     color: #5DED51;
 }
 
-#instructions
-{
+#instructions {
     font-size: 30px;
     color: #26CD18;
 }
 
-p
-{
+p {
     font-size: 40px;
     color: #26CD18;
 }
 
-input
-{
-   margin: 8px;
-   width: 30%;
-   padding: 8px;
-   font-size: 20px;
+input {
+    margin: 8px;
+    width: 30%;
+    padding: 8px;
+    font-size: 20px;
 }
 
-label
-{
+label {
     color: #5DED51;
     font-size: 23px;
 }
 
-#logo
-{
+#logo {
     margin-top: 40px;
     width: 80px;
     float: left;
