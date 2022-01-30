@@ -4,7 +4,7 @@ import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import EnterUsernamesPage from "./components/Views/EnterUsernamesPage";
 
-const CLIENT_ID = "03aa3b35defe464e9356b46c90136528"
+const CLIENT_ID = "46d905a2fc0840e7a1f978369cce82d4"
 const REDIRECT_URI = "http://localhost:3000"
 const AUTH_ENDPOINT = "https://accounts.spotify.com/authorize"
 const RESPONSE_TYPE = "token"
